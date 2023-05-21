@@ -1,0 +1,6 @@
+C:\Users\davib\source\repos\4_ 4\4_ 4\obj\Debug\4_ 4.csproj.AssemblyReference.cache
+C:\Users\davib\source\repos\4_ 4\4_ 4\obj\Debug\4_ 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\davib\source\repos\4_ 4\4_ 4\obj\Debug\_4__4.Form1.resources
+C:\Users\davib\source\repos\4_ 4\4_ 4\obj\Debug\_4__4.Properties.Resources.resources
+C:\Users\davib\source\repos\4_ 4\4_ 4\obj\Debug\4_ 4.csproj.GenerateResource.cache
+C:\Users\davib\source\repos\4_ 4\4_ 4\obj\Debug\4_ 4.csproj.CoreCompileInputs.cache

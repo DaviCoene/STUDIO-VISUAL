@@ -1,0 +1,11 @@
+C:\Users\davib\source\repos\5_2\5_2\bin\Debug\5_2.exe.config
+C:\Users\davib\source\repos\5_2\5_2\bin\Debug\5_2.exe
+C:\Users\davib\source\repos\5_2\5_2\bin\Debug\5_2.pdb
+C:\Users\davib\source\repos\5_2\5_2\obj\Debug\5_2.csproj.AssemblyReference.cache
+C:\Users\davib\source\repos\5_2\5_2\obj\Debug\5_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\davib\source\repos\5_2\5_2\obj\Debug\_5_2.Form1.resources
+C:\Users\davib\source\repos\5_2\5_2\obj\Debug\_5_2.Properties.Resources.resources
+C:\Users\davib\source\repos\5_2\5_2\obj\Debug\5_2.csproj.GenerateResource.cache
+C:\Users\davib\source\repos\5_2\5_2\obj\Debug\5_2.csproj.CoreCompileInputs.cache
+C:\Users\davib\source\repos\5_2\5_2\obj\Debug\5_2.exe
+C:\Users\davib\source\repos\5_2\5_2\obj\Debug\5_2.pdb
